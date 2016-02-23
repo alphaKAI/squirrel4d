@@ -13,7 +13,6 @@ Therefore I decide to develop embeddable VM based script language in pure D even
 * (Not yet) Translate Orignal C++ implementation into D(Not a merely translation, I'll translate as D way)
 
 # Contribution
-My English is probably wrong, if you find my mistake, please tell me freely.  
 If you have some of question please ask me.  
 
 # License
